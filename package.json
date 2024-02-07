@@ -1,0 +1,21 @@
+{
+    "name": "discord-bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/bot.js",
+    "scripts": {
+        "test": "node ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "discord.js": "^14.14.1",
+        "dotenv": "^16.3.1",
+        "live-stock-price": "^1.0.4",
+        "mongodb": "^6.3.0",
+        "mongoose": "^8.1.1",
+        "stocks.js": "^0.0.7"
+    }
+}
