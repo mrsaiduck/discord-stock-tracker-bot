@@ -1,5 +1,5 @@
-# Stockify
-### Stockify is a versatile Discord bot designed to enhance your stock market experience directly within your Discord server. With Stockify, you can access real-time stock market data, receive personalized alerts for specific stocks, and explore various technical indicators to make informed trading decisions.
+# Stock Tracker Discord Bot
+### This discord bot is designed to enhance your stock market experience directly within your Discord server. With this bot, you can access real-time stock market data, receive personalized alerts for specific stocks, and explore various technical indicators to make informed trading decisions.
 
 ## Key Features
 Real-Time Data: Stay updated with the latest stock market trends and prices.
@@ -29,12 +29,12 @@ Watchlist Management: Easily manage your watchlist of stocks and stay informed a
 /ping: Check the bot's latency.
 /help: Display available commands and their usage.
 ## Credits
-Stockify utilizes various open-source packages and APIs, including:
+This bot utilizes various open-source packages and APIs, including:
 
 Stocks.js
 live-stock-price
 Discord.js
 Mongoose
-For more information on how to use Stockify, refer to the documentation and tutorials provided in the repository.
+For more information on how to use this bot, refer to the documentation
 
-Experience the power of real-time stock market data integration with Stockify. Elevate your Discord server with advanced stock tracking capabilities today!
+Experience the power of real-time stock market data integration. Elevate your Discord server with advanced stock tracking capabilities today!
